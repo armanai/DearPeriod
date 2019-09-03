@@ -1,0 +1,20 @@
+PODS:
+  - JTAppleCalendar (7.1.6)
+  - paper-onboarding (5.0.0)
+
+DEPENDENCIES:
+  - JTAppleCalendar
+  - paper-onboarding
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JTAppleCalendar
+    - paper-onboarding
+
+SPEC CHECKSUMS:
+  JTAppleCalendar: abb30678f42a4ef8a340a932b1dcb8c85a33dac2
+  paper-onboarding: a2e3a710fd27ac0b5635ec5490660e7ec09289b5
+
+PODFILE CHECKSUM: 82e7c29be865b457ca3b4f620e468318197e1bee
+
+COCOAPODS: 1.5.3
